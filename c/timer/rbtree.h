@@ -1,5 +1,5 @@
 /*
- * Author: yanglc
+ * Author: none
  * Date  : 2018-07-25
  */
 #ifndef __RBTREE_H__
